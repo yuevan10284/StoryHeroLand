@@ -154,7 +154,7 @@ export function LandingPageComponent() {
                   className="rounded-full w-24 h-24 object-cover"
                 />
                 <h3 className="text-xl font-bold">MagicGum - Youtube Creator 500k+</h3>
-                <p className="text-gray-300">"I've always needed a tool to help me repurpose my content after uploading! Every agency charges thousands for what StoryHero does in minutes."</p>
+                <p className="text-gray-300">&ldquo;I&apos;ve always needed a tool to help me repurpose my content after uploading! Every agency charges thousands for what StoryHero does in minutes.&rdquo;</p>
               </div>
               <div className="flex flex-col items-center space-y-4 text-center">
                 <Image 
@@ -165,7 +165,7 @@ export function LandingPageComponent() {
                   className="rounded-full" 
                 />
                 <h3 className="text-xl font-bold">Anonymous User</h3>
-                <p className="text-gray-300">"Whenever I'm too lazy to repurpose my content, I go to StoryHero to do it all for me. It's free views!"</p>
+                <p className="text-gray-300">&ldquo;Whenever I&apos;m too lazy to repurpose my content, I go to StoryHero to do it all for me. It&apos;s free views!&rdquo;</p>
               </div>
             </div>
           </div>
